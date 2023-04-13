@@ -1,0 +1,2 @@
+# ssgrabber
+ScreenShot Grabber
