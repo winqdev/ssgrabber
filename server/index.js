@@ -6,7 +6,7 @@ const path = require('path');
 const underscore = require('underscore');
 const axios = require("axios");
 // Config
-let clientendpoint = "http://localhost:8080";
+let clientendpoint = "";
 
 const app = express();
 app.use(bodyParser.json({ limit: '10mb' }));
